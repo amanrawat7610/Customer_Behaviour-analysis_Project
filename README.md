@@ -1,4 +1,4 @@
-# Customer_analysis_Project
+# Customer_Behaviour_analysis_Project
 
 <img width="1294" height="704" alt="image" src="https://github.com/user-attachments/assets/209d015b-b3ce-4120-8a05-415a91793c1a" />
 
