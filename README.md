@@ -1,8 +1,8 @@
 # Customer_Behaviour_analysis_Project
 
-<img width="1294" height="704" alt="image" src="https://github.com/user-attachments/assets/209d015b-b3ce-4120-8a05-415a91793c1a" />
+<img width="500" height="290" alt="image" src="https://github.com/user-attachments/assets/209d015b-b3ce-4120-8a05-415a91793c1a" />
 
-<img width="1295" height="709" alt="image" src="https://github.com/user-attachments/assets/ee9c935e-31ca-4c25-95e6-118d3f74324b" />
+<img width="500" height="290" alt="image" src="https://github.com/user-attachments/assets/ee9c935e-31ca-4c25-95e6-118d3f74324b" />
 
 
 # 🛒 Customer Behaviour Analysis
